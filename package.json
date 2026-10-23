@@ -85,5 +85,8 @@
   },
   "overrides": {
     "fast-xml-parser": "^5.3.7"
+  },
+  "engines": {
+    "node": "^22.23.4"
   }
 }
